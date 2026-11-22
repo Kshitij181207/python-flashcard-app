@@ -15,6 +15,3 @@ python flashcards.py
 ## Screenshot
 
 ![Flashcard app running in the terminal](screenshot.png)
-## Screenshot
-
-![Flashcard app running in the terminal](screenshot.png)
