@@ -10,3 +10,7 @@ A simple terminal flashcard app written in Python. Create cards, study them, tra
 
 ```bash
 python flashcards.py
+
+## Screenshot
+
+![Flashcard app running in the terminal](screenshot.png)
